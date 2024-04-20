@@ -1,0 +1,27 @@
+[
+    {
+        "nome":"Figura 1",
+        "imagem":"img/fig1.jpg"
+    },
+
+    {
+        "nome":"Figura 2",
+        "imagem":"img/fig2.jpg"
+    },
+    {
+        "nome":"Figura 3",
+        "imagem":"img/fig3.jpg"
+    },
+    {
+        "nome":"Figura 4",
+        "imagem":"img/fig4.jpg"
+    },
+    {
+        "nome":"Figura 5",
+        "imagem":"img/fig5.jpg"
+    },
+    {
+        "nome":"Figura 6",
+        "imagem":"img/fig6.jpg"
+    }
+]
